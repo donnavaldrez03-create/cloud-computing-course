@@ -43,8 +43,6 @@ AWS can be used by enterprises for web and mobile application hosting, data stor
 
 ## 7. Screenshot Evidence
 
-## 7. Screenshot Evidence
-
 The following screenshot shows the official AWS website used during my research.
 
 ![AWS Official Website](aws-homepage.png)<img width="1919" height="973" alt="aws-homepage png" src="https://github.com/user-attachments/assets/53f74055-c042-4a39-93c6-40b52e27c81d" />
